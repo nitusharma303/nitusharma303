@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitusharma303
-- 👀 I’m interested in full stack developer...
+- 👀 A passionate full stack developer...
 - 🌱 I’m currently learning ..flutter.
 - 💬 Ask me about  Graphic Design :)
 - 📫 How to reach me 820knitu@gmail.com
